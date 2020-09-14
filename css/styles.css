@@ -1,0 +1,80 @@
+body{
+  font-family: 'Comfortaa';
+}
+
+
+h3{
+  padding: 6% 0 3%;
+  text-align: center;
+}
+
+p{
+  font-size: 1rem;
+}
+
+footer{
+  padding-top:30px;
+  padding-bottom:30px;
+  background-color: rgba(0, 0, 0, 0.53);
+  text-align: center;
+
+}
+
+footer p{
+  margin-bottom: 0;
+  font-size: 0.7rem;
+}
+
+.slider img{
+  width:100%;
+}
+
+
+.collapse.in {
+  display: block;
+}
+
+.navbar{
+  z-index: 9999;
+  font-size: 20px;
+}
+
+.navbar{
+  background-color: rgba(0, 0, 0, 0.53);
+}
+
+.navbar-brand{
+  font-size: 20px;
+}
+
+
+.slider-text{
+  position: relative;
+  bottom: 10rem;
+  text-align: center;
+
+}
+
+.who-we-are, .contact{
+  text-align: center;
+}
+
+
+.card-img-top {
+    width: 100%;
+    height: 9vw;
+
+}
+
+.card-img{
+  width: 100%;
+  height: 100%;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-padding{
+  padding: 0 15%;
+}
